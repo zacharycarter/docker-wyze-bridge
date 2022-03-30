@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container version="2">
   <Name>docker-wyze-bridge</Name>
-  <Repository>mrlt8/wyze-bridge</Repository>
-  <Registry>https://hub.docker.com/r/mrlt8/wyze-bridge</Registry>
+  <Repository>zacharycarter/wyze-bridge</Repository>
+  <Registry>https://hub.docker.com/r/zacharycarter/wyze-bridge</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://github.com/mrlt8/docker-wyze-bridge</Support>
-  <Project>https://github.com/mrlt8/docker-wyze-bridge</Project>
+  <Support>https://github.com/zacharycarter/docker-wyze-bridge</Support>
+  <Project>https://github.com/zacharycarter/docker-wyze-bridge</Project>
   <Overview>RTMP/RTSP/HLS bridge for Wyze cams in a docker container</Overview>
   <Category>Home Automation:</Category>
   <WebUI/>
