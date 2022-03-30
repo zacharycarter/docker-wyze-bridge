@@ -188,12 +188,12 @@ def get_camera_list(auth_info: WyzeCredential) -> List[WyzeCamera]:
 
         if not p2p_id:
             continue
-        if not p2p_type:
-            continue
-        if not ip:
-            continue
-        if not enr:
-            continue
+        # if not p2p_type:
+        #     continue
+        # if not ip:
+        #     continue
+        # if not enr:
+        #     continue
         if not mac:
             continue
         if not product_model:

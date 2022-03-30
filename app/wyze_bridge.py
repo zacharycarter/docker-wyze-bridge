@@ -446,7 +446,7 @@ model_names = {
     "WYZECP1_JEF": "Pan",
     "HL_PAN2": "Pan V2",
     "WYZEDB3": "Doorbell",
-    "WWVDP": "Doorbell Pro",
+    "GW_BE1": "Doorbell Pro",
     "WVOD1": "Outdoor",
     "HL_WCO2": "Outdoor V2",
 }
