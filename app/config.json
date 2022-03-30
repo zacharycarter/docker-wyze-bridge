@@ -4,7 +4,7 @@
     "slug": "docker-wyze-bridge",
     "url": "http://github.com/zacharycarter/docker-wyze-bridge",
     "image": "zacharycarter/wyze-bridge",
-    "version": "1.3.0",
+    "version": "0.0.1",
     "arch": [
         "armv7",
         "aarch64",
